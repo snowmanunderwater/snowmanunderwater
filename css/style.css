@@ -1,0 +1,35 @@
+body {
+    font-family: "PT Sans Caption", Arial, Verdana, Helvetica
+}
+
+small {
+    font-size: 65%;
+    color: #777;
+}
+
+.label {
+    font-weight: 500;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 85%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.label-default {
+    background-color: #445;
+}
+
+.header {
+    text-align: center;
+    padding: 10px;
+}
+
+.header h1 a {
+    color: #222;
+}
