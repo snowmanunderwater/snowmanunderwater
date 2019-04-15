@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on My New Hugo Site</title>
-    <link>/tags/python/</link>
+    <link>snowmanunderwater/tags/python/</link>
     <description>Recent content in Python on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Apr 2019 22:10:48 +0300</lastBuildDate>
     
-	<atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="snowmanunderwater/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hr</title>
-      <link>/projects/hr/</link>
+      <link>snowmanunderwater/projects/hr/</link>
       <pubDate>Mon, 15 Apr 2019 22:10:48 +0300</pubDate>
       
-      <guid>/projects/hr/</guid>
+      <guid>snowmanunderwater/projects/hr/</guid>
       <description>HR</description>
     </item>
     
     <item>
       <title>Binclock</title>
-      <link>/projects/binclock/</link>
+      <link>snowmanunderwater/projects/binclock/</link>
       <pubDate>Mon, 15 Apr 2019 13:10:19 +0300</pubDate>
       
-      <guid>/projects/binclock/</guid>
+      <guid>snowmanunderwater/projects/binclock/</guid>
       <description>How to Use CSS Position to Move Elements | Learn HTML &amp;amp; CSS | HTML Tutorial | mmtuts. In this HTML and CSS tutorial you will learn how to use the position styling inside your CSS stylesheet. We will be going through all the different position types, including the new &amp;ldquo;sticky&amp;rdquo; value.
 Go
 package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Привет, Tproger!&amp;quot;) }  </description>
@@ -33,10 +33,10 @@ package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;
     
     <item>
       <title>Github Gists CLI</title>
-      <link>/projects/github_gists_cli/</link>
+      <link>snowmanunderwater/projects/github_gists_cli/</link>
       <pubDate>Sun, 14 Apr 2019 12:47:52 +0300</pubDate>
       
-      <guid>/projects/github_gists_cli/</guid>
+      <guid>snowmanunderwater/projects/github_gists_cli/</guid>
       <description>a task list item list syntax required incomplete completed  </description>
     </item>
     

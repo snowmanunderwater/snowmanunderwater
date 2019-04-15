@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on My New Hugo Site</title>
-    <link>/tags/game/</link>
+    <link>snowmanunderwater/tags/game/</link>
     <description>Recent content in Game on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Apr 2019 13:10:46 +0300</lastBuildDate>
     
-	<atom:link href="/tags/game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="snowmanunderwater/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Game_of_life</title>
-      <link>/projects/game_of_life/</link>
+      <link>snowmanunderwater/projects/game_of_life/</link>
       <pubDate>Mon, 15 Apr 2019 13:10:46 +0300</pubDate>
       
-      <guid>/projects/game_of_life/</guid>
+      <guid>snowmanunderwater/projects/game_of_life/</guid>
       <description>This is a small program that generates diffusion-limited aggregations in either 2D or 3D. The output is a CSV file containing the coordinates of the particles and their relationship to one another. Rendering is out of scope, but I have produced several example renders. The code is very configurable - there are a few parameters that you can tweak and there are also several code hooks that allow you to alter the algorithm&amp;rsquo;s behavior.</description>
     </item>
     
     <item>
       <title>2048</title>
-      <link>/projects/2048/</link>
+      <link>snowmanunderwater/projects/2048/</link>
       <pubDate>Sat, 13 Apr 2019 13:10:40 +0300</pubDate>
       
-      <guid>/projects/2048/</guid>
+      <guid>snowmanunderwater/projects/2048/</guid>
       <description>How to Use CSS Position to Move Elements | Learn HTML &amp;amp; CSS | HTML Tutorial | mmtuts. In this HTML and CSS tutorial you will learn how to use the position styling inside your CSS stylesheet.</description>
     </item>
     
