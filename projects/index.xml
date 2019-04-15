@@ -1,52 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on My New Hugo Site</title>
+    <title>Projects on Franckevich German</title>
     <link>snowmanunderwater/projects/</link>
-    <description>Recent content in Projects on My New Hugo Site</description>
+    <description>Recent content in Projects on Franckevich German</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 22:10:48 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 12:47:52 +0300</lastBuildDate>
     
 	<atom:link href="snowmanunderwater/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hr</title>
-      <link>snowmanunderwater/projects/hr/</link>
-      <pubDate>Mon, 15 Apr 2019 22:10:48 +0300</pubDate>
+      <title>Github Gists CLI</title>
+      <link>snowmanunderwater/projects/github_gists_cli/</link>
+      <pubDate>Mon, 15 Apr 2019 12:47:52 +0300</pubDate>
       
-      <guid>snowmanunderwater/projects/hr/</guid>
-      <description>HR</description>
+      <guid>snowmanunderwater/projects/github_gists_cli/</guid>
+      <description>CLI tool for manipulate with GitHub Gists.
+Just one file. No dependencies, 100% vanilla python.
+With this tool you can read, create, update, delete gists. Starr and unstar a gist. Get all gists in one time from specific user. Fork gist and list forked gists.
+More info in GitHub repo.
+Links: GitHub • Official API docs</description>
     </item>
     
     <item>
       <title>Game_of_life</title>
       <link>snowmanunderwater/projects/game_of_life/</link>
-      <pubDate>Mon, 15 Apr 2019 13:10:46 +0300</pubDate>
+      <pubDate>Sun, 14 Apr 2019 13:10:46 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/game_of_life/</guid>
-      <description>This is a small program that generates diffusion-limited aggregations in either 2D or 3D. The output is a CSV file containing the coordinates of the particles and their relationship to one another. Rendering is out of scope, but I have produced several example renders. The code is very configurable - there are a few parameters that you can tweak and there are also several code hooks that allow you to alter the algorithm&amp;rsquo;s behavior.</description>
-    </item>
-    
-    <item>
-      <title>Binclock</title>
-      <link>snowmanunderwater/projects/binclock/</link>
-      <pubDate>Mon, 15 Apr 2019 13:10:19 +0300</pubDate>
-      
-      <guid>snowmanunderwater/projects/binclock/</guid>
-      <description>How to Use CSS Position to Move Elements | Learn HTML &amp;amp; CSS | HTML Tutorial | mmtuts. In this HTML and CSS tutorial you will learn how to use the position styling inside your CSS stylesheet. We will be going through all the different position types, including the new &amp;ldquo;sticky&amp;rdquo; value.
-Go
-package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Привет, Tproger!&amp;quot;) }  </description>
-    </item>
-    
-    <item>
-      <title>Github Gists CLI</title>
-      <link>snowmanunderwater/projects/github_gists_cli/</link>
-      <pubDate>Sun, 14 Apr 2019 12:47:52 +0300</pubDate>
-      
-      <guid>snowmanunderwater/projects/github_gists_cli/</guid>
-      <description>a task list item list syntax required incomplete completed  </description>
+      <description>Conway&amp;rsquo;s Game of Life. Build with Javascript and p5.js library.
+Links: GitHub • Original game</description>
     </item>
     
     <item>
@@ -55,13 +40,36 @@ package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;
       <pubDate>Sat, 13 Apr 2019 13:10:40 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/2048/</guid>
-      <description>How to Use CSS Position to Move Elements | Learn HTML &amp;amp; CSS | HTML Tutorial | mmtuts. In this HTML and CSS tutorial you will learn how to use the position styling inside your CSS stylesheet.</description>
+      <description>Build with Javascript and p5.js library.
+Links: GitHub • Original game</description>
+    </item>
+    
+    <item>
+      <title>Binclock</title>
+      <link>snowmanunderwater/projects/binclock/</link>
+      <pubDate>Sat, 13 Apr 2019 13:10:19 +0300</pubDate>
+      
+      <guid>snowmanunderwater/projects/binclock/</guid>
+      <description>CLI Binary clock.
+In repo you can find two versions:
+ &amp;ldquo;Live&amp;rdquo; version. Refresh every second, build with ncurses. (In the picture) &amp;ldquo;Executable&amp;rdquo; version. Print current time once in stdout and exit.   | | | &amp;lt; 8 | || || &amp;lt; 4 || || || &amp;lt; 2 || || || &amp;lt; 1 HH:MM:SS  Links: GitHub</description>
+    </item>
+    
+    <item>
+      <title>HR - Horizontal rule</title>
+      <link>snowmanunderwater/projects/hr/</link>
+      <pubDate>Fri, 12 Apr 2019 22:10:48 +0300</pubDate>
+      
+      <guid>snowmanunderwater/projects/hr/</guid>
+      <description>HTML5 &amp;lt;hr&amp;gt; tag in terminal. Can be used in scripts to visualy separate one part from another.
+You can specified symbol, color, and backgroud.
+Links: GitHub</description>
     </item>
     
     <item>
       <title>This_site</title>
       <link>snowmanunderwater/projects/this_site/</link>
-      <pubDate>Sat, 13 Apr 2019 13:09:55 +0300</pubDate>
+      <pubDate>Thu, 11 Apr 2019 13:09:55 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/this_site/</guid>
       <description>This site.</description>

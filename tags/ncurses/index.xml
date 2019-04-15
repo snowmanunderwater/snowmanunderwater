@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ncurses on My New Hugo Site</title>
+    <title>ncurses on Franckevich German</title>
     <link>snowmanunderwater/tags/ncurses/</link>
-    <description>Recent content in ncurses on My New Hugo Site</description>
+    <description>Recent content in ncurses on Franckevich German</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 13:10:19 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 13:10:19 +0300</lastBuildDate>
     
 	<atom:link href="snowmanunderwater/tags/ncurses/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,12 @@
     <item>
       <title>Binclock</title>
       <link>snowmanunderwater/projects/binclock/</link>
-      <pubDate>Mon, 15 Apr 2019 13:10:19 +0300</pubDate>
+      <pubDate>Sat, 13 Apr 2019 13:10:19 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/binclock/</guid>
-      <description>How to Use CSS Position to Move Elements | Learn HTML &amp;amp; CSS | HTML Tutorial | mmtuts. In this HTML and CSS tutorial you will learn how to use the position styling inside your CSS stylesheet. We will be going through all the different position types, including the new &amp;ldquo;sticky&amp;rdquo; value.
-Go
-package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Привет, Tproger!&amp;quot;) }  </description>
+      <description>CLI Binary clock.
+In repo you can find two versions:
+ &amp;ldquo;Live&amp;rdquo; version. Refresh every second, build with ncurses. (In the picture) &amp;ldquo;Executable&amp;rdquo; version. Print current time once in stdout and exit.   | | | &amp;lt; 8 | || || &amp;lt; 4 || || || &amp;lt; 2 || || || &amp;lt; 1 HH:MM:SS  Links: GitHub</description>
     </item>
     
   </channel>

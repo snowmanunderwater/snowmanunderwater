@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game on My New Hugo Site</title>
+    <title>Game on Franckevich German</title>
     <link>snowmanunderwater/tags/game/</link>
-    <description>Recent content in Game on My New Hugo Site</description>
+    <description>Recent content in Game on Franckevich German</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 13:10:46 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 13:10:46 +0300</lastBuildDate>
     
 	<atom:link href="snowmanunderwater/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,11 @@
     <item>
       <title>Game_of_life</title>
       <link>snowmanunderwater/projects/game_of_life/</link>
-      <pubDate>Mon, 15 Apr 2019 13:10:46 +0300</pubDate>
+      <pubDate>Sun, 14 Apr 2019 13:10:46 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/game_of_life/</guid>
-      <description>This is a small program that generates diffusion-limited aggregations in either 2D or 3D. The output is a CSV file containing the coordinates of the particles and their relationship to one another. Rendering is out of scope, but I have produced several example renders. The code is very configurable - there are a few parameters that you can tweak and there are also several code hooks that allow you to alter the algorithm&amp;rsquo;s behavior.</description>
+      <description>Conway&amp;rsquo;s Game of Life. Build with Javascript and p5.js library.
+Links: GitHub • Original game</description>
     </item>
     
     <item>
@@ -26,7 +27,8 @@
       <pubDate>Sat, 13 Apr 2019 13:10:40 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/2048/</guid>
-      <description>How to Use CSS Position to Move Elements | Learn HTML &amp;amp; CSS | HTML Tutorial | mmtuts. In this HTML and CSS tutorial you will learn how to use the position styling inside your CSS stylesheet.</description>
+      <description>Build with Javascript and p5.js library.
+Links: GitHub • Original game</description>
     </item>
     
   </channel>
