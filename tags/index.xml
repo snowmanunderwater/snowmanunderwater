@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Franckevich German</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 12:47:52 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 17:24:06 +0300</lastBuildDate>
     
 	<atom:link href="snowmanunderwater/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flask</title>
+      <link>snowmanunderwater/tags/flask/</link>
+      <pubDate>Tue, 16 Apr 2019 17:24:06 +0300</pubDate>
+      
+      <guid>snowmanunderwater/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>snowmanunderwater/tags/python/</link>
+      <pubDate>Tue, 16 Apr 2019 17:24:06 +0300</pubDate>
+      
+      <guid>snowmanunderwater/tags/python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CLI</title>
@@ -17,15 +35,6 @@
       <pubDate>Mon, 15 Apr 2019 12:47:52 +0300</pubDate>
       
       <guid>snowmanunderwater/tags/cli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>snowmanunderwater/tags/python/</link>
-      <pubDate>Mon, 15 Apr 2019 12:47:52 +0300</pubDate>
-      
-      <guid>snowmanunderwater/tags/python/</guid>
       <description></description>
     </item>
     

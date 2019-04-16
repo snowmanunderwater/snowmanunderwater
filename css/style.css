@@ -1,10 +1,18 @@
 body {
-    font-family: "PT Sans Caption", Arial, Verdana, Helvetica
+    background-image: url("../images/noisy-texture-100x100_4.png");
+    /* background: linear-gradient(to bottom, #fff 0%,#fff 100%); */
+    font-family: "PT Sans Caption", Arial, Verdana, Helvetica;
+
 }
 
 small {
-    font-size: 65%;
+    font-size: 55%;
     color: #777;
+}
+
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .label {
@@ -36,5 +44,21 @@ small {
 
 img {
     width: 100%;
-    height: auto; 
+}
+
+.project-images {
+    display: block;
+    margin-top: 15px;
+    margin-left: 5%;
+    margin-right: auto;
+    width: 70%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 5pt;
+}
+
+.shadow {
+    /* background: #fc0;  */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 10px;
+    border-radius: 5pt;
 }

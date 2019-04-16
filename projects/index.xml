@@ -6,10 +6,20 @@
     <description>Recent content in Projects on Franckevich German</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 12:47:52 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 17:24:06 +0300</lastBuildDate>
     
 	<atom:link href="snowmanunderwater/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flask URL Shortener</title>
+      <link>snowmanunderwater/projects/flask_url_shortener/</link>
+      <pubDate>Tue, 16 Apr 2019 17:24:06 +0300</pubDate>
+      
+      <guid>snowmanunderwater/projects/flask_url_shortener/</guid>
+      <description>URL shortener builded with base62 algorithm.
+Links: GitHub</description>
+    </item>
     
     <item>
       <title>Github Gists CLI</title>
