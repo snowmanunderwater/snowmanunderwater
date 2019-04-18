@@ -6,7 +6,7 @@
     <description>Recent content in CLI on Franckevich German</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 12:47:52 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 12:47:52 +0300</lastBuildDate>
     
 	<atom:link href="snowmanunderwater/tags/cli/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Github Gists CLI</title>
       <link>snowmanunderwater/projects/github_gists_cli/</link>
-      <pubDate>Mon, 15 Apr 2019 12:47:52 +0300</pubDate>
+      <pubDate>Mon, 01 Apr 2019 12:47:52 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/github_gists_cli/</guid>
       <description>CLI tool for manipulate with GitHub Gists.
@@ -27,7 +27,7 @@ Links: GitHub • Official API docs</description>
     <item>
       <title>Binclock</title>
       <link>snowmanunderwater/projects/binclock/</link>
-      <pubDate>Sat, 13 Apr 2019 13:10:19 +0300</pubDate>
+      <pubDate>Wed, 20 Mar 2019 13:10:19 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/binclock/</guid>
       <description>CLI Binary clock.
@@ -38,7 +38,7 @@ In repo you can find two versions:
     <item>
       <title>HR - Horizontal rule</title>
       <link>snowmanunderwater/projects/hr/</link>
-      <pubDate>Fri, 12 Apr 2019 22:10:48 +0300</pubDate>
+      <pubDate>Sun, 10 Mar 2019 22:10:48 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/hr/</guid>
       <description>HTML5 &amp;lt;hr&amp;gt; tag in terminal. Can be used in scripts to visualy separate one part from another.

@@ -6,7 +6,7 @@
     <description>Recent content in ncurses on Franckevich German</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Apr 2019 13:10:19 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 13:10:19 +0300</lastBuildDate>
     
 	<atom:link href="snowmanunderwater/tags/ncurses/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Binclock</title>
       <link>snowmanunderwater/projects/binclock/</link>
-      <pubDate>Sat, 13 Apr 2019 13:10:19 +0300</pubDate>
+      <pubDate>Wed, 20 Mar 2019 13:10:19 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/binclock/</guid>
       <description>CLI Binary clock.

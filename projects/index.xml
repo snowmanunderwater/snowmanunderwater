@@ -24,7 +24,7 @@ Links: GitHub</description>
     <item>
       <title>Github Gists CLI</title>
       <link>snowmanunderwater/projects/github_gists_cli/</link>
-      <pubDate>Mon, 15 Apr 2019 12:47:52 +0300</pubDate>
+      <pubDate>Mon, 01 Apr 2019 12:47:52 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/github_gists_cli/</guid>
       <description>CLI tool for manipulate with GitHub Gists.
@@ -37,7 +37,7 @@ Links: GitHub • Official API docs</description>
     <item>
       <title>Game_of_life</title>
       <link>snowmanunderwater/projects/game_of_life/</link>
-      <pubDate>Sun, 14 Apr 2019 13:10:46 +0300</pubDate>
+      <pubDate>Thu, 28 Mar 2019 13:10:46 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/game_of_life/</guid>
       <description>Conway&amp;rsquo;s Game of Life. Build with Javascript and p5.js library.
@@ -47,7 +47,7 @@ Links: GitHub • Original game</description>
     <item>
       <title>2048</title>
       <link>snowmanunderwater/projects/2048/</link>
-      <pubDate>Sat, 13 Apr 2019 13:10:40 +0300</pubDate>
+      <pubDate>Mon, 25 Mar 2019 13:10:40 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/2048/</guid>
       <description>Build with Javascript and p5.js library.
@@ -57,7 +57,7 @@ Links: GitHub • Original game</description>
     <item>
       <title>Binclock</title>
       <link>snowmanunderwater/projects/binclock/</link>
-      <pubDate>Sat, 13 Apr 2019 13:10:19 +0300</pubDate>
+      <pubDate>Wed, 20 Mar 2019 13:10:19 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/binclock/</guid>
       <description>CLI Binary clock.
@@ -68,7 +68,7 @@ In repo you can find two versions:
     <item>
       <title>HR - Horizontal rule</title>
       <link>snowmanunderwater/projects/hr/</link>
-      <pubDate>Fri, 12 Apr 2019 22:10:48 +0300</pubDate>
+      <pubDate>Sun, 10 Mar 2019 22:10:48 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/hr/</guid>
       <description>HTML5 &amp;lt;hr&amp;gt; tag in terminal. Can be used in scripts to visualy separate one part from another.
@@ -79,10 +79,12 @@ Links: GitHub</description>
     <item>
       <title>This_site</title>
       <link>snowmanunderwater/projects/this_site/</link>
-      <pubDate>Thu, 11 Apr 2019 13:09:55 +0300</pubDate>
+      <pubDate>Wed, 20 Feb 2019 13:09:55 +0300</pubDate>
       
       <guid>snowmanunderwater/projects/this_site/</guid>
-      <description>This site.</description>
+      <description>This site.
+Builded with static site generator HUGO, with my custom theme Snowman.
+Links: GitHub</description>
     </item>
     
   </channel>
